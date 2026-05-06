@@ -4,7 +4,7 @@
 **Asignatura:** Cultura Digital  
 **Centro:** Universitat Oberta de Catalunya (UOC)  
 **Fecha:** Mayo 2026  
-**Licencia:** [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+**Licencia:** [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ---
 
