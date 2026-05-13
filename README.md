@@ -1,10 +1,25 @@
 # PEC3: Redescubriendo la hibridación con las gafas de Manovich
 
+![Cultura Digital](https://img.shields.io/badge/Cultura_Digital-UOC-blue)
+![Licencia](https://img.shields.io/badge/Licencia-CC0_1.0_Universal-green)
+![Año](https://img.shields.io/badge/Año-2026-orange)
+![Markdown](https://img.shields.io/badge/Formato-Markdown-lightgrey)
+
 **Autor:** Marc Garcia Diaz  
 **Asignatura:** Cultura Digital  
 **Centro:** Universitat Oberta de Catalunya (UOC)  
 **Fecha:** Mayo 2026  
 **Licencia:** [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
+
+---
+
+## Índice
+
+- [Introducción](#introducción)
+- [Caso 1: Death Stranding](#caso-1-death-stranding--cuando-el-videojuego-se-convierte-en-red-social)
+- [Caso 2: Ford F-150 Lightning Strike Anywhere](#caso-2-ford-f-150-lightning-strike-anywhere--el-concesionario-en-la-palma-de-la-mano)
+- [Conclusión general](#conclusión-general)
+- [Referencias y bibliografía](#referencias-y-bibliografía)
 
 ---
 
@@ -24,6 +39,22 @@ En este ensayo analizamos dos casos contemporáneos que, vistos con las gafas de
 ![Death Stranding](https://upload.wikimedia.org/wikipedia/en/2/22/Death_Stranding.jpg)  
 *Imagen: Portada de Death Stranding. Fuente: Kojima Productions / Wikipedia*
 
+### Ficha del caso
+
+| Campo | Detalle |
+|---|---|
+| **Título** | Death Stranding |
+| **Desarrollador** | Kojima Productions |
+| **Año** | 2019 |
+| **Plataformas** | PlayStation 4, PlayStation 5, PC |
+| **Tipo de hibridación** | Videojuego + Cine de autor + Red social asíncrona + Simulador logístico |
+| **Concepto clave** | Social Strand System |
+
+### Tráiler oficial
+
+[![Ver tráiler de Death Stranding](https://img.youtube.com/vi/Gu8X7vM3Avw/0.jpg)](https://www.youtube.com/watch?v=Gu8X7vM3Avw)  
+*Haz clic para ver el tráiler oficial en YouTube*
+
 ### ¿Qué es Death Stranding?
 
 *Death Stranding* es un videojuego de acción y aventura en mundo abierto desarrollado por Kojima Productions y publicado en 2019 para PlayStation 4, y posteriormente para PC y PlayStation 5. Su protagonista, Sam Bridges (interpretado mediante captura de movimiento por el actor Norman Reedus), debe reconectar los fragmentos de una sociedad postapocalíptica transportando suministros a través de un territorio devastado.
@@ -34,7 +65,7 @@ Desde la perspectiva de Manovich, *Death Stranding* es un caso de hibridación e
 
 El primer nivel de hibridación ocurre entre el **videojuego y el cine de autor**. Kojima integra la captura facial y de movimiento de actores reales de primer nivel —Norman Reedus, Mads Mikkelsen, Léa Seydoux, Guillermo del Toro— en cinemáticas de una duración y densidad narrativa propias del largometraje. El resultado no es un juego con escenas de cine intercaladas, sino una obra donde la jugabilidad y la narrativa cinematográfica se condicionan mutuamente hasta hacerse inseparables.
 
-El segundo y más innovador nivel de hibridación es la fusión entre el **videojuego y la red social asíncrona**. Kojima denominó a este sistema *Social Strand System*, y con razón: los jugadores de todo el mundo comparten un mismo mundo persistente de forma indirecta. Las estructuras que un jugador construye —puentes, carreteras, refugios— aparecen en las partidas de otros jugadores. Los caminos que más personas recorren se consolidan y aceleran el desplazamiento de todos. Los jugadores pueden dejar señales de aviso, compartir recursos y, significativamente, enviarse **likes** entre sí como expresión de gratitud, trasladando al universo del juego una lógica propia de plataformas como Instagram o Twitter.
+El segundo y más innovador nivel de hibridación es la fusión entre el **videojuego y la red social asíncrona**. Kojima denominó a este sistema *Social Strand System*: los jugadores de todo el mundo comparten un mismo mundo persistente de forma indirecta. Las estructuras que un jugador construye —puentes, carreteras, refugios— aparecen en las partidas de otros jugadores. Los jugadores pueden dejar señales de aviso, compartir recursos y, significativamente, enviarse **likes** entre sí como expresión de gratitud, trasladando al universo del juego una lógica propia de plataformas como Instagram o Twitter.
 
 Esta mecánica no es un añadido decorativo: está profundamente entrelazada con el tema central del juego, la reconexión humana. El software convierte la colaboración indirecta entre desconocidos en la mecánica principal, hibridando la soledad del juego individual con la dimensión social de las redes digitales.
 
@@ -51,23 +82,35 @@ Manovich describe la hibridación como la creación de nuevas especies de medios
 ![Ford F-150 Lightning AR](https://media.ford.com/content/fordmedia/fna/mx/es/news/2021/11/09/f-150-lightning-can-strike-anywhere/_jcr_content/image.img.881.495.jpg/1636488052000.jpg)  
 *Imagen: Experiencia AR Ford F-150 Lightning. Fuente: Ford Media*
 
+### Ficha del caso
+
+| Campo | Detalle |
+|---|---|
+| **Título** | Ford F-150 Lightning: Strike Anywhere |
+| **Desarrollador** | Ford Motor Company + Google |
+| **Año** | 2021 |
+| **Plataformas** | Android, iOS, Ford.com |
+| **Tipo de hibridación** | Publicidad + Realidad aumentada + Showroom virtual + Configurador de producto |
+| **Concepto clave** | Fusión espacio físico y representación digital |
+
+### Vídeo de la experiencia
+
+[![Ver experiencia Ford F-150 Lightning AR](https://img.youtube.com/vi/piIgkJWDuQg/0.jpg)](https://www.youtube.com/watch?v=piIgkJWDuQg)  
+*Haz clic para ver la experiencia en YouTube*
+
 ### ¿Qué es Strike Anywhere?
 
-En noviembre de 2021, Ford Motor Company, en colaboración con Google, lanzó *F-150 Lightning: Strike Anywhere*, una experiencia de realidad aumentada gratuita disponible para dispositivos Android e iOS. La experiencia permite al usuario proyectar un modelo tridimensional a escala real del nuevo Ford F-150 Lightning —la versión eléctrica de su camioneta más icónica— en cualquier entorno físico, simplemente apuntando con la cámara del smartphone.
+En noviembre de 2021, Ford Motor Company, en colaboración con Google, lanzó *F-150 Lightning: Strike Anywhere*, una experiencia de realidad aumentada gratuita disponible para dispositivos Android e iOS. La experiencia permite al usuario proyectar un modelo tridimensional a escala real del Ford F-150 Lightning —la versión eléctrica de su camioneta más icónica— en cualquier entorno físico, simplemente apuntando con la cámara del smartphone.
 
 ### La hibridación en acción
 
-Si Manovich afirma que la hibridación reconfigura el universo de los medios de forma más profunda que la multimedia, *Strike Anywhere* es un caso que ilustra este proceso de manera casi didáctica.
-
 Antes de la existencia de esta experiencia, conocer un vehículo antes de comprarlo requería visitar un concesionario físico, consultar un catálogo impreso, ver un anuncio de televisión o explorar fotografías en una web. Cada uno de estos medios tenía su propio lenguaje, su propia interfaz, su propia lógica. *Strike Anywhere* los absorbe a todos y los disuelve en un único objeto híbrido donde ya no es posible distinguir dónde termina el catálogo y dónde empieza la publicidad, el showroom o el videojuego de exploración.
 
-El primer nivel de hibridación es entre la **publicidad y la experiencia interactiva**. El usuario no recibe un mensaje publicitario pasivo: manipula el objeto, lo coloca en su garaje o en su calle, cambia su color, accede a trece animaciones interactivas que explican las características técnicas del vehículo. La clásica asimetría entre emisor y receptor publicitario se rompe; el software convierte al consumidor en explorador activo del producto.
+El primer nivel de hibridación es entre la **publicidad y la experiencia interactiva**. El usuario no recibe un mensaje publicitario pasivo: manipula el objeto, lo coloca en su garaje o en su calle, cambia su color y accede a trece animaciones interactivas que explican las características técnicas del vehículo. La clásica asimetría entre emisor y receptor publicitario se rompe; el software convierte al consumidor en explorador activo del producto.
 
-El segundo nivel es la fusión entre el **espacio físico y la representación digital**. Aquí reside quizás el núcleo de la hibridación: el vehículo no existe en una pantalla separada de la realidad, sino superpuesto sobre ella. El objeto digital ocupa el mismo espacio perceptivo que el mundo físico del usuario, creando una experiencia que no es ni puramente digital ni puramente física. Manovich hablaría aquí de una nueva interfaz que no existía en ninguno de los medios previos por separado.
+El segundo nivel es la fusión entre el **espacio físico y la representación digital**. El vehículo no existe en una pantalla separada de la realidad, sino superpuesto sobre ella. El objeto digital ocupa el mismo espacio perceptivo que el mundo físico del usuario, creando una experiencia que no es ni puramente digital ni puramente física. Manovich hablaría aquí de una nueva interfaz que no existía en ninguno de los medios previos por separado.
 
 El tercer nivel es la hibridación entre el **configurador de producto y el entretenimiento**. Seleccionar acabados, colores y paquetes de mejoras son tareas propias del software de configuración industrial; sin embargo, la experiencia las presenta con la fluidez y el atractivo visual de una aplicación de ocio. La lógica del catálogo técnico se hibrida con la lógica del juego de exploración.
-
-Desde el punto de vista de la estrategia de hibridación que describe Manovich, *Strike Anywhere* combina ambas dimensiones: define nuevos formatos de representación del producto (el vehículo en RA) y al mismo tiempo introduce nuevas formas de interacción (manipulación espacial en el entorno real del usuario) que no existían en ninguno de los medios que la preceden.
 
 ### Conclusión del caso
 
@@ -94,4 +137,4 @@ Como señala Manovich, estamos ante una evolución del metamedio computacional q
 
 ---
 
-*Este documento ha sido redactado bajo licencia [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/). Se permite su reutilización y adaptación citando la fuente original.*
+*Este documento se publica bajo licencia [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).*
