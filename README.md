@@ -71,6 +71,10 @@ Esta mecánica no es un añadido decorativo: está profundamente entrelazada con
 
 El tercer nivel es la hibridación entre el **videojuego y el simulador logístico**. Planificar rutas, gestionar el peso del equipaje, calcular el desgaste del terreno o prever las condiciones meteorológicas son tareas cognitivas propias de software de gestión, no de un juego de acción. *Death Stranding* absorbe estas lógicas y las convierte en experiencia lúdica.
 
+### Contexto e impacto cultural
+
+El lanzamiento de *Death Stranding* en 2019 generó una división sin precedentes en la crítica especializada. Mientras algunos medios lo calificaban de obra maestra, otros lo tachaban de aburrido simulador de reparto. Esta polarización no era casual: el público intentaba clasificar el juego dentro de géneros conocidos y no lo conseguía, precisamente porque era algo nuevo. Kojima había construido, conscientemente o no, lo que Manovich denominaría un híbrido profundo, una obra donde la remezcla no es superficial sino estructural. El *Social Strand System* no es una característica añadida al juego: es su columna vertebral, la razón por la que la narrativa de reconexión humana funciona emocionalmente. Sin la red social asíncrona, el juego pierde su significado. Este modelo de colaboración indirecta entre jugadores ha influido en títulos posteriores como *Elden Ring* (2022), que incorporó sistemas similares de mensajes y espectros de otros jugadores, demostrando que *Death Stranding* abrió un camino que otros han seguido.
+
 ### Conclusión del caso
 
 Manovich describe la hibridación como la creación de nuevas especies de medios. *Death Stranding* es exactamente eso: una especie nueva que no existía antes del software. No es cine, no es videojuego tradicional, no es red social y no es simulador logístico, pero es todo ello a la vez, fusionado en una experiencia cultural que solo es posible gracias a las capacidades del metamedio computacional.
@@ -111,6 +115,10 @@ El primer nivel de hibridación es entre la **publicidad y la experiencia intera
 El segundo nivel es la fusión entre el **espacio físico y la representación digital**. El vehículo no existe en una pantalla separada de la realidad, sino superpuesto sobre ella. El objeto digital ocupa el mismo espacio perceptivo que el mundo físico del usuario, creando una experiencia que no es ni puramente digital ni puramente física. Manovich hablaría aquí de una nueva interfaz que no existía en ninguno de los medios previos por separado.
 
 El tercer nivel es la hibridación entre el **configurador de producto y el entretenimiento**. Seleccionar acabados, colores y paquetes de mejoras son tareas propias del software de configuración industrial; sin embargo, la experiencia las presenta con la fluidez y el atractivo visual de una aplicación de ocio. La lógica del catálogo técnico se hibrida con la lógica del juego de exploración.
+
+### Contexto e impacto en el sector
+
+*Strike Anywhere* no surgió de forma arbitraria: respondía a un problema concreto. Según datos de Ford, el 79% de los más de 160.000 reservantes del F-150 Lightning nunca había tenido un vehículo eléctrico, y más de la mitad nunca había comprado un Ford. Ford necesitaba educar a un público nuevo sobre una tecnología desconocida, y los medios tradicionales —el anuncio de televisión, el folleto, la visita al concesionario— eran insuficientes para transmitir la complejidad de un vehículo eléctrico. La solución fue precisamente la hibridación: crear un medio nuevo que combinara la capacidad explicativa del software interactivo con la inmersión del espacio físico del usuario. En términos de Manovich, Ford no digitalizó un catálogo existente, sino que creó una nueva especie mediática para resolver un problema que ningún medio previo podía resolver por separado. *Strike Anywhere* fue además pionera en el sector del automóvil, abriendo el camino a experiencias similares que marcas como BMW, Hyundai o Audi desarrollarían posteriormente.
 
 ### Conclusión del caso
 
