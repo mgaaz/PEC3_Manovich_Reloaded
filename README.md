@@ -79,7 +79,7 @@ Manovich describe la hibridación como la creación de nuevas especies de medios
 
 ## Caso 2: Ford F-150 Lightning: Strike Anywhere — El concesionario en la palma de la mano
 
-![Ford F-150 Lightning AR](https://media.ford.com/content/fordmedia/fna/mx/es/news/2021/11/09/f-150-lightning-can-strike-anywhere/_jcr_content/image.img.881.495.jpg/1636488052000.jpg)  
+![Ford F-150 Lightning AR]()  
 *Imagen: Experiencia AR Ford F-150 Lightning. Fuente: Ford Media*
 
 ### Ficha del caso
@@ -95,7 +95,7 @@ Manovich describe la hibridación como la creación de nuevas especies de medios
 
 ### Vídeo de la experiencia
 
-[![Ver experiencia Ford F-150 Lightning AR](https://img.youtube.com/vi/piIgkJWDuQg/0.jpg)](https://www.youtube.com/watch?v=piIgkJWDuQg)  
+[![Ver experiencia Ford F-150 Lightning AR]()]()  
 *Haz clic para ver la experiencia en YouTube*
 
 ### ¿Qué es Strike Anywhere?
