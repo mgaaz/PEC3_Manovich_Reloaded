@@ -79,9 +79,8 @@ Manovich describe la hibridación como la creación de nuevas especies de medios
 
 ## Caso 2: Ford F-150 Lightning: Strike Anywhere — El concesionario en la palma de la mano
 
-![Ford F-150 Lightning](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/2022_Ford_F-150_Lightning_%2827478%29.jpg/1280px-2022_Ford_F-150_Lightning_%2827478%29.jpg)  
-*Imagen: Ford F-150 Lightning 2022. Fuente: Wikimedia Commons*
-*Imagen: Experiencia AR Ford F-150 Lightning. Fuente: Ford Media*
+![Ford F-150 Lightning](ford_lightning.jpg)  
+*Imagen: Experiencia AR Ford F-150 Lightning Strike Anywhere. Fuente: InsideEVs (2021)*
 
 ### Ficha del caso
 
@@ -133,6 +132,7 @@ Como señala Manovich, estamos ante una evolución del metamedio computacional q
 - Kojima Productions. (2019). *Death Stranding* [Videojuego]. Sony Interactive Entertainment.
 - Ford Motor Company. (2021). *F-150 Lightning: Strike Anywhere* [Experiencia de realidad aumentada]. Ford + Google.
 - Ford Media México. (2021, 9 de noviembre). *F-150 Lightning lanza su experiencia de realidad aumentada en colaboración con Google*. https://media.ford.com/content/fordmedia/fna/mx/es/news/2021/11/09/f-150-lightning-can-strike-anywhere.html
+- InsideEVs. (2021). *Ford F-150 Lightning: Strike Anywhere* [Fotografía]. https://insideevs.com/photos/797333/ford-f-150-lightning-strike-anywhere/
 - Wikipedia. (2024). *Death Stranding*. https://en.wikipedia.org/wiki/Death_Stranding
 - Educomuniquemos UNED. (2016). *Síntesis: El software toma el mando*. https://educomuniquemosuned.wordpress.com/2016/12/22/sintesis-el-software-toma-el-mando/
 
