@@ -1,4 +1,4 @@
-# PEC3: Redescubriendo la hibridación con las gafas de Manovich
+# PEC3: Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
 
 ![Cultura Digital](https://img.shields.io/badge/Cultura_Digital-UOC-blue)
 ![Licencia](https://img.shields.io/badge/Licencia-CC0_1.0_Universal-green)
