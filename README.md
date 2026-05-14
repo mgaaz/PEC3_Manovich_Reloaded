@@ -134,6 +134,14 @@ Como señala Manovich, estamos ante una evolución del metamedio computacional q
 
 ---
 
+## Uso de la IA
+
+Para la elaboración de esta PEC se ha utilizado Claude (Anthropic) como herramienta de apoyo en la supervisión sintáctica y de redacción y en la estructuración del documento. La redacción final, el enfoque analítico y las reflexiones personales son propios del autor. Siguiendo las normas de citación de la UOC, se referencia a continuación:
+
+- Anthropic. (2026). *Claude* (claude-sonnet-4-6) [Modelo de lenguaje]. https://www.anthropic.com
+
+---
+
 ## Referencias y bibliografía
 
 - Manovich, L. (2013). *El software toma el mando*. Editorial UOC.
